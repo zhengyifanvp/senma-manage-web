@@ -1,4 +1,4 @@
-# leyou-manage-web
+# senma-manage-web
 
 > A Vue.js project
 
